@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="external/stlport" name="LineageOS/android_external_stlport" />
+
+  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" />
+
+  <project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" />
+
+  <!-- Samsung Galaxy S4 Exynos Repositories -->
+  <project path="device/samsung/i9500" name="exynos5410/android_device_samsung_i9500" />
+  <project path="kernel/samsung/exynos5410" name="exynos5410/android_kernel_samsung_exynos5410" />
+  <project path="vendor/samsung" name="exynos5410/proprietary_vendor_samsung" />
+
+  <project path="hardware/samsung_slsi-cm/exynos" name="LineageOS/android_hardware_samsung_slsi-cm_exynos" />
+  <project path="hardware/samsung_slsi-cm/exynos5" name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" />
+  <project path="hardware/samsung_slsi-cm/exynos5410" name="exynos5410/android_hardware_samsung_slsi-cm_exynos5410" />
+  <project path="hardware/samsung_slsi-cm/openmax" name="LineageOS/android_hardware_samsung_slsi-cm_openmax" />
+
+</manifest>
