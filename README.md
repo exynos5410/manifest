@@ -21,14 +21,14 @@
 - git fetch https://gerrit.omnirom.org/android_bootable_recovery refs/changes/70/22770/1 && git cherry-pick FETCH_HEAD
 - cd ../..
 - cd external/libselinux
-- git am ../../device/samsung/i9500/patches/external_libselinux/556a9e925053e0b62f495233e165112e12b5d869.patch
+- git am ../../device/samsung/exynos5410-common/patches/external_libselinux/556a9e925053e0b62f495233e165112e12b5d869.patch
 - cd ../..
 - cd frameworks/base
-- git am ../../device/samsung/i9500/patches/frameworks_base/0001-DO-NOT-MERGE-PATCH-Zygote-Stop-breaking-the-entire-s.patch
+- git am ../../device/samsung/exynos5410-common/patches/frameworks_base/0001-DO-NOT-MERGE-PATCH-Zygote-Stop-breaking-the-entire-s.patch
 - git fetch https://review.lineageos.org/LineageOS/android_frameworks_base refs/changes/45/169945/2 && git cherry-pick FETCH_HEAD
 - cd ../..
 - cd system/core
-- git am ../../device/samsung/i9500/patches/system_core/79ce3d6a96f3d381dc4db1aac45ccb788e1276ab.patch
+- git am ../../device/samsung/exynos5410-common/patches/system_core/79ce3d6a96f3d381dc4db1aac45ccb788e1276ab.patch
 - cd ../..
 
 4) You are good to go, proceed with the compiling process
