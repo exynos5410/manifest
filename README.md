@@ -35,5 +35,8 @@
 
 - OPTIONAL (if you want built-in root support): export WITH_SU=true
 - export WITH_TWRP=true
-- . build/envsetup && lunch lineage_i9500-userdebug
-- brunch lineage_i9500-userdebug
+
+5) FOR GT-I9500 (ja3gxx) only. OTHERWISE, REPLACE THE CODENAME WITH OTHERS SUPPORTED (check the manifest).
+
+- . build/envsetup && lunch lineage_ja3gxx-userdebug
+- brunch lineage_ja3gxx-userdebug
