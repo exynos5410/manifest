@@ -16,7 +16,6 @@
 
 - cd bootable/recovery-twrp
 - git fetch https://gerrit.omnirom.org/android_bootable_recovery refs/changes/96/22096/3 && git cherry-pick FETCH_HEAD
-- git fetch https://gerrit.omnirom.org/android_bootable_recovery refs/changes/20/23520/2 && git cherry-pick FETCH_HEAD
 - cd ../..
 - cd external/libselinux
 - git am ../../device/samsung/exynos5410-common/patches/external_libselinux/556a9e925053e0b62f495233e165112e12b5d869.patch
