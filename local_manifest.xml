@@ -17,6 +17,7 @@
   <project path="device/samsung/exynos5410-common" name="exynos5410/android_device_samsung_exynos5410-common" />
   <project path="device/samsung/ja3gxx" name="exynos5410/android_device_samsung_ja3gxx" />
   <project path="device/samsung/ja3gchnduos" name="exynos5410/android_device_samsung_ja3gchnduos" />
+  <project path="device/samsung/ja3gduosctc" name="exynos5410/android_device_samsung_ja3gduosctc" />
   <project path="device/samsung/jalteskt" name="exynos5410/android_device_samsung_jalteskt" />
   <project path="device/samsung/jaltelgt" name="exynos5410/android_device_samsung_jaltelgt" />
   <project path="kernel/samsung/exynos5410" name="exynos5410/android_kernel_samsung_exynos5410" />
