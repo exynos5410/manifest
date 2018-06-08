@@ -35,5 +35,5 @@
 
 5) FOR GT-I9500 (ja3gxx) only. OTHERWISE, REPLACE THE CODENAME WITH OTHERS SUPPORTED (check the manifest).
 
-- . build/envsetup && lunch lineage_ja3gxx-userdebug
+- . build/envsetup.sh && lunch lineage_ja3gxx-userdebug
 - brunch lineage_ja3gxx-userdebug
